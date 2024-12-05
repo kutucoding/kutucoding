@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anggi Fauzan</h1>
-<h3 align="center">I'm from Indonesia</h3>
+<h3 align="center">👋 Hi there!  
+I’m an Informatics Engineering student passionate about technology and its potential to improve lives.  
+
+💻 I specialize in Android app development using Kotlin and love exploring Flutter with Dart to create cross-platform solutions.  
+
+🚀 I’m constantly learning and enjoy working on innovative projects that combine creativity and functionality.  
+
+🌟 Let’s collaborate and build something amazing together!  
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kutucoding&label=Profile%20views&color=0e75b6&style=flat" alt="kutucoding" /> </p>
 
